@@ -1,2 +1,0 @@
-# StopLight
-Created with CodeSandbox
